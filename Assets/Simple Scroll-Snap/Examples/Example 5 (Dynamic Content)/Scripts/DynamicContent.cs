@@ -32,8 +32,7 @@ namespace DanielLochner.Assets.SimpleScrollSnap
             toggle.group = toggleGroup;
             scrollSnap.Pagination.transform.position -= new Vector3(toggleWidth / 2f, 0, 0);
 
-            // Panel
-            panelPrefab.GetComponent<Image>().color = new Color(UnityEngine.Random.Range(0f, 1f), UnityEngine.Random.Range(0f, 1f), UnityEngine.Random.Range(0f, 1f));
+          
             scrollSnap.Add(panelPrefab, index);
         }
         public void AddAtIndex()
