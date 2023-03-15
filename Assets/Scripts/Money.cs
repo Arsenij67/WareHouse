@@ -5,11 +5,17 @@ using UnityEngine.UI;
 
 public class Money : MonoBehaviour
 {
-    [SerializeField] private Text collMoney;
+    [SerializeField] private Text countMoney;
     private int money = 2147483647;
 
     void Update()
     {
-        collMoney.text = money.ToString();
+        countMoney.text = money.ToString();
+    }
+
+    public void ChangedCountMoney()
+    {
+        if (money <= 0) return;
+
     }
 }
