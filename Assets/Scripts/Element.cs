@@ -19,6 +19,7 @@ public class Element : MonoBehaviour
     public int ContWhearesInBoard = 60;
 
     private static int QuantityBuys = 0;
+
     public List<Element> GetElements() => _elements;
 
     private void Awake()

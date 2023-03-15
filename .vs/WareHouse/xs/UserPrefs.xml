@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{EFEDF583-C0A1-504D-58EF-9D129ED309D8}|">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Money.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Element.cs">
     <Files>
-      <File FileName="Assets/Scripts/Element.cs" Line="13" Column="28" />
-      <File FileName="Assets/Scripts/Money.cs" Line="25" Column="43" />
+      <File FileName="Assets/Scripts/Element.cs" Line="62" Column="16" />
+      <File FileName="Assets/Scripts/Money.cs" Line="31" Column="40" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
