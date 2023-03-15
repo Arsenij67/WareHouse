@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 
 public class Element : MonoBehaviour
@@ -10,23 +11,42 @@ public class Element : MonoBehaviour
     public bool isSelected = false;
     public void Select()
     {
-        print("dcbsd");
-        _elements.AddRange(FindObjectsOfType<Element>());
+        
 
-        print("количество товаров - " + _elements.Count);
 
-        GameObject element = gameObject.transform.GetChild(0).gameObject;
+        if(_elements.Count < 1)
+        _elements.AddRange(GameObject.FindObjectsOfType<Element>());
 
-        element.SetActive(true);
 
+        Debug.Log("количество товаров - " + _elements.Count);
+
+        GameObject Childelement = gameObject.transform.GetChild(0).gameObject;
+
+    
+    
+
+
+        foreach (var elem in _elements)
+        {
+
+
+             elem.isSelected = false;
+            if(elem.gameObject.transform.childCount > 0)
+             elem.gameObject.transform?.GetChild(0)?.gameObject.SetActive(false);
+        
+        
+        }
+
+        Childelement.SetActive(true);
         isSelected = true;
-    
-    
-    
+
+
+
+
     }
 
 
-    
+
 }
 
 
