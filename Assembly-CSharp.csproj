@@ -61,7 +61,7 @@
     <Compile Include="Assets/Simple Scroll-Snap/Examples/Example 1 (macOS Finder)/Scripts/FileUI.cs" />
     <Compile Include="Assets/Simple Scroll-Snap/Examples/_Common/Scripts/ExpandInformation.cs" />
     <Compile Include="Assets/Simple Scroll-Snap/Examples/Example 5 (Dynamic Content)/Scripts/DynamicContent.cs" />
-    <Compile Include="Assets/Money.cs" />
+    <Compile Include="Assets/Scripts/Money.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
