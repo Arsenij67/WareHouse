@@ -19,9 +19,13 @@ namespace DanielLochner.Assets.SimpleScrollSnap
         private float toggleWidth;
         #endregion
 
+       
         #region Methods
         private void Awake()
         {
+
+            Add(1);
+            Add(1);
             toggleWidth = (togglePrefab.transform as RectTransform).sizeDelta.x * (Screen.width / 2048f); ;
         }
 

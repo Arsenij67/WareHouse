@@ -30,6 +30,7 @@ public class Money : MonoBehaviour
                 el.transform.GetChild(1).gameObject.SetActive(false);
                 el.transform.GetChild(2).gameObject.SetActive(false);
                 el.isBuy = true;
+               
             }
         }
     }
