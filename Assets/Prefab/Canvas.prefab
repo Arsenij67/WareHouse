@@ -147,7 +147,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938382515946822
 GameObject:
   m_ObjectHideFlags: 0
@@ -295,7 +297,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938382543440792
 GameObject:
   m_ObjectHideFlags: 0
@@ -443,7 +447,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938382543879331
 GameObject:
   m_ObjectHideFlags: 0
@@ -483,7 +489,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &8091938382543879329
 MonoBehaviour:
@@ -733,7 +739,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938382556137931
 GameObject:
   m_ObjectHideFlags: 0
@@ -956,7 +964,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938382630342173
 GameObject:
   m_ObjectHideFlags: 0
@@ -1179,7 +1189,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938382655061441
 GameObject:
   m_ObjectHideFlags: 0
@@ -1477,7 +1489,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938382758916940
 GameObject:
   m_ObjectHideFlags: 0
@@ -1625,7 +1639,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938382764885140
 GameObject:
   m_ObjectHideFlags: 0
@@ -1898,8 +1914,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 84, y: 8}
-  m_SizeDelta: {x: 1192.177, y: 329.369}
+  m_AnchoredPosition: {x: 47, y: 26.929}
+  m_SizeDelta: {x: 826.4011, y: 467.838}
   m_Pivot: {x: 0.4999999, y: 0.5575616}
 --- !u!222 &8091938382879228791
 CanvasRenderer:
@@ -1960,10 +1976,10 @@ MonoBehaviour:
   m_Spacing: 2
   m_ChildForceExpandWidth: 1
   m_ChildForceExpandHeight: 1
-  m_ChildControlWidth: 0
-  m_ChildControlHeight: 0
-  m_ChildScaleWidth: 0
-  m_ChildScaleHeight: 0
+  m_ChildControlWidth: 1
+  m_ChildControlHeight: 1
+  m_ChildScaleWidth: 1
+  m_ChildScaleHeight: 1
   m_ReverseArrangement: 0
 --- !u!1 &8091938382897934409
 GameObject:
@@ -2004,7 +2020,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &8091938382897934415
 MonoBehaviour:
@@ -2179,7 +2195,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938382975247924
 GameObject:
   m_ObjectHideFlags: 0
@@ -2402,7 +2420,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383023415666
 GameObject:
   m_ObjectHideFlags: 0
@@ -2550,7 +2570,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383024565661
 GameObject:
   m_ObjectHideFlags: 0
@@ -2773,7 +2795,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383031334348
 GameObject:
   m_ObjectHideFlags: 0
@@ -2921,7 +2945,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383034219352
 GameObject:
   m_ObjectHideFlags: 0
@@ -3069,7 +3095,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383061650502
 GameObject:
   m_ObjectHideFlags: 0
@@ -3367,7 +3395,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383131808696
 GameObject:
   m_ObjectHideFlags: 0
@@ -3515,7 +3545,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383193549220
 GameObject:
   m_ObjectHideFlags: 0
@@ -3663,7 +3695,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383215492492
 GameObject:
   m_ObjectHideFlags: 0
@@ -3886,7 +3920,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383235436182
 GameObject:
   m_ObjectHideFlags: 0
@@ -3926,7 +3962,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &8091938383235436180
 MonoBehaviour:
@@ -4101,7 +4137,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383243764555
 GameObject:
   m_ObjectHideFlags: 0
@@ -4249,7 +4287,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383281490321
 GameObject:
   m_ObjectHideFlags: 0
@@ -4397,7 +4437,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383312615755
 GameObject:
   m_ObjectHideFlags: 0
@@ -4545,7 +4587,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383339224526
 GameObject:
   m_ObjectHideFlags: 0
@@ -4843,7 +4887,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383406326053
 GameObject:
   m_ObjectHideFlags: 0
@@ -5216,7 +5262,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383420869893
 GameObject:
   m_ObjectHideFlags: 0
@@ -5439,7 +5487,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383429106997
 GameObject:
   m_ObjectHideFlags: 0
@@ -5887,7 +5937,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383500822881
 GameObject:
   m_ObjectHideFlags: 0
@@ -6035,7 +6087,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383503770811
 GameObject:
   m_ObjectHideFlags: 0
@@ -6183,7 +6237,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383521452622
 GameObject:
   m_ObjectHideFlags: 0
@@ -6331,7 +6387,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383522695561
 GameObject:
   m_ObjectHideFlags: 0
@@ -6479,7 +6537,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383545804123
 GameObject:
   m_ObjectHideFlags: 0
@@ -6627,7 +6687,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383547699587
 GameObject:
   m_ObjectHideFlags: 0
@@ -6850,7 +6912,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383552351783
 GameObject:
   m_ObjectHideFlags: 0
@@ -7148,7 +7212,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383567166623
 GameObject:
   m_ObjectHideFlags: 0
@@ -7296,7 +7362,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383575142638
 GameObject:
   m_ObjectHideFlags: 0
@@ -7444,7 +7512,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383582391876
 GameObject:
   m_ObjectHideFlags: 0
@@ -7592,7 +7662,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383612862402
 GameObject:
   m_ObjectHideFlags: 0
@@ -7815,7 +7887,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383651598653
 GameObject:
   m_ObjectHideFlags: 0
@@ -7963,7 +8037,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383656722820
 GameObject:
   m_ObjectHideFlags: 0
@@ -8003,7 +8079,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &8091938383656722826
 MonoBehaviour:
@@ -8403,7 +8479,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383716758517
 GameObject:
   m_ObjectHideFlags: 0
@@ -9001,7 +9079,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383852230021
 GameObject:
   m_ObjectHideFlags: 0
@@ -9041,7 +9121,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &8091938383852230027
 MonoBehaviour:
@@ -9108,7 +9188,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &8091938383855631174
 MonoBehaviour:
@@ -9583,7 +9663,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383943877636
 GameObject:
   m_ObjectHideFlags: 0
@@ -9806,7 +9888,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938383977726385
 GameObject:
   m_ObjectHideFlags: 0
@@ -10029,7 +10113,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938384002301747
 GameObject:
   m_ObjectHideFlags: 0
@@ -10069,7 +10155,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &8091938384002301745
 MonoBehaviour:
@@ -10244,7 +10330,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938384027818070
 GameObject:
   m_ObjectHideFlags: 0
@@ -10467,7 +10555,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938384056675222
 GameObject:
   m_ObjectHideFlags: 0
@@ -10615,7 +10705,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938384086761838
 GameObject:
   m_ObjectHideFlags: 0
@@ -10763,7 +10855,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938384095049675
 GameObject:
   m_ObjectHideFlags: 0
@@ -10803,7 +10897,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &8091938384095049673
 MonoBehaviour:
@@ -10978,7 +11072,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938384107136416
 GameObject:
   m_ObjectHideFlags: 0
@@ -11126,7 +11222,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938384119611823
 GameObject:
   m_ObjectHideFlags: 0
@@ -11305,7 +11403,7 @@ RectTransform:
   m_GameObject: {fileID: 8091938384151480559}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 100}
-  m_LocalScale: {x: 0.10270668, y: 0.10270668, z: 0.10270668}
+  m_LocalScale: {x: 0.6687951, y: 0.6687951, z: 0.6687951}
   m_Children:
   - {fileID: 8091938383669095763}
   - {fileID: 8091938382879228785}
@@ -11314,8 +11412,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 408.2677, y: 271.9279}
-  m_SizeDelta: {x: 1434.8079, y: 700.6885}
+  m_AnchoredPosition: {x: 460.3635, y: 286}
+  m_SizeDelta: {x: 1334.2195, y: 700.6885}
   m_Pivot: {x: 0.5, y: 0.6089548}
 --- !u!223 &8091938384151480466
 Canvas:
@@ -11600,7 +11698,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938384207488285
 GameObject:
   m_ObjectHideFlags: 0
@@ -11640,7 +11740,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &8091938384207488259
 MonoBehaviour:
@@ -11815,7 +11915,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938384214965861
 GameObject:
   m_ObjectHideFlags: 0
@@ -12005,7 +12107,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &8091938384240890081
 MonoBehaviour:
@@ -12180,7 +12282,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938384270546101
 GameObject:
   m_ObjectHideFlags: 0
@@ -12328,7 +12432,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938384276082624
 GameObject:
   m_ObjectHideFlags: 0
@@ -12701,7 +12807,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938384332596790
 GameObject:
   m_ObjectHideFlags: 0
@@ -12849,7 +12957,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938384379583266
 GameObject:
   m_ObjectHideFlags: 0
@@ -13072,7 +13182,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938384388889576
 GameObject:
   m_ObjectHideFlags: 0
@@ -13370,7 +13482,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938384416859814
 GameObject:
   m_ObjectHideFlags: 0
@@ -13485,7 +13599,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &8091938384447390572
 MonoBehaviour:
@@ -13735,7 +13849,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938384540493914
 GameObject:
   m_ObjectHideFlags: 0
@@ -13850,7 +13966,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &8091938384544431401
 MonoBehaviour:
@@ -14100,7 +14216,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938384587346089
 GameObject:
   m_ObjectHideFlags: 0
@@ -14323,7 +14441,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!1 &8091938384599107313
 GameObject:
   m_ObjectHideFlags: 0
