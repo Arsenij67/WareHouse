@@ -282,7 +282,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 62310720}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -430,7 +430,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 70743492}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -794,7 +794,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 146590011}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -1017,7 +1017,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 159719999}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -1240,7 +1240,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 209092700}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -1455,7 +1455,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 238008783}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -1893,7 +1893,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 388156183}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -2380,7 +2380,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 491241763}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -2483,7 +2483,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 47bbd3401f72e4117ad59095c1e992c3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  collMoney: {fileID: 1694905692}
+  countMoney: {fileID: 0}
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0
@@ -2625,7 +2625,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 543265054}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -2773,7 +2773,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 550382664}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -2988,7 +2988,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 568996190}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -3136,7 +3136,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 572652488}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -3359,7 +3359,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 661642235}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -3507,7 +3507,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 723378671}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -3655,7 +3655,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 727621739}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -3803,7 +3803,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 753666319}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -3951,7 +3951,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 756549539}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -4099,7 +4099,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 757515610}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -4322,7 +4322,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 763613989}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -4470,7 +4470,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 769389090}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -4847,7 +4847,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 820066030}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -4995,7 +4995,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 823933752}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -5218,7 +5218,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 841712748}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -5441,7 +5441,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 846124814}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -5589,7 +5589,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 869170144}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -5737,7 +5737,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 869490721}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -5960,7 +5960,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 898986584}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -6183,7 +6183,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 904509645}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -6331,7 +6331,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 908791362}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -6929,7 +6929,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 990663000}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -7152,7 +7152,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 1011092254}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -7862,7 +7862,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 1168028074}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -8131,7 +8131,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 1209041780}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -8279,7 +8279,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 1232492859}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -8431,7 +8431,7 @@ GameObject:
   - component: {fileID: 1258790658}
   m_Layer: 5
   m_Name: selected
-  m_TagString: Untagged
+  m_TagString: Selected
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8719,7 +8719,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 1278254107}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -8867,7 +8867,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 1286480577}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -9015,7 +9015,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 1294528210}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -9163,7 +9163,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 1304693385}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -9536,7 +9536,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 1357614029}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -9759,7 +9759,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 1377923905}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -9907,7 +9907,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 1409128905}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -10130,7 +10130,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 1458062335}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -10345,7 +10345,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 1472757805}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -10783,7 +10783,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 1559751296}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -11006,7 +11006,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 1579756983}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -11446,7 +11446,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 1669878889}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -11594,7 +11594,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 1673796364}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -11742,7 +11742,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 1680519381}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -12261,7 +12261,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 1732060908}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -12634,7 +12634,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 1789201475}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -12849,7 +12849,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 1803070127}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -13072,7 +13072,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 1828427767}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -13220,7 +13220,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 1838651719}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -13688,7 +13688,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 1894052450}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -14061,7 +14061,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 1942371802}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -14351,7 +14351,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 2010910975}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -14716,7 +14716,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 2088938431}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
@@ -15014,7 +15014,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1519461507}
+      - m_Target: {fileID: 2135539167}
         m_TargetAssemblyTypeName: Element, Assembly-CSharp
         m_MethodName: Select
         m_Mode: 1
