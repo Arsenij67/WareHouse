@@ -10,9 +10,12 @@ public class Element : MonoBehaviour
 
 
     public bool isSelected = false;
-
+    public int price = 100;
     public GameObject select;
 
+    public bool isBuy = false;
+
+    public List<Element> GetElements() => _elements;
 
     private void Awake()
     {
@@ -20,23 +23,26 @@ public class Element : MonoBehaviour
     }
     public void Select()
     {
-
+        if (isBuy) return;
 
 
         _elements.Clear();
         _elements.AddRange(GameObject.FindObjectsOfType<Element>());
 
-
+        foreach(var el in _elements)
+        {
+            el.isSelected = false;
+        }
 
         select.transform.SetParent(this.gameObject.transform);
 
         select.transform.localPosition = new Vector3(-30, -70, 0);
 
 
-        Debug.Log("количество товаров - " + _elements.Count);
+        Debug.Log("пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ - " + _elements.Count);
 
 
-        //isSelected = true;
+        isSelected = true;
 
 
 

@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class Money : MonoBehaviour
 {
     [SerializeField] private Text countMoney;
+    [SerializeField] private Element element;
     private int money = 2147483647;
 
     void Update()
@@ -17,5 +18,16 @@ public class Money : MonoBehaviour
     {
         if (money <= 0) return;
 
+        var selectElements = element.GetElements(); 
+
+        foreach(var el in selectElements)
+        {
+            if(el.isSelected && !el.isBuy)
+            {
+                money -= el.price;
+                el.transform.GetChild(0).gameObject.SetActive(false);
+                el.isBuy = true;
+            }
+        }
     }
 }

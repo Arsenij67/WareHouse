@@ -229,6 +229,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   countMoney: {fileID: 3860252547489437995}
+  element: {fileID: 3860252546855705454}
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0
@@ -440,7 +441,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252546245266461
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -548,7 +551,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252546249280921
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -737,7 +742,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 541.58, y: -58.999}
+  m_AnchoredPosition: {x: 548.95, y: -64.876}
   m_SizeDelta: {x: 50, y: 50}
   m_Pivot: {x: 11.47899, y: -0.79751426}
 --- !u!1 &3860252546275799992
@@ -867,7 +872,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252546279369006
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -919,7 +926,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252546282662869
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1067,7 +1076,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252546286902870
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1215,7 +1226,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252546289532755
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1363,7 +1376,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252546300749177
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1740,7 +1755,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252546350947626
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1888,7 +1905,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252546358590826
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2237,7 +2256,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252546396346288
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2385,7 +2406,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!224 &3860252546443409280
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2439,7 +2462,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252546443409293
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2831,7 +2856,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252546531870086
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3107,7 +3134,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252546562369386
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3464,7 +3493,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!114 &3860252546635438745
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3478,7 +3509,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252546635438746
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3626,7 +3659,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252546655311784
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3774,7 +3809,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252546655505495
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3922,7 +3959,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252546661579642
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4165,7 +4204,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252546665424924
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4443,7 +4484,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252546686260411
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4800,7 +4843,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!224 &3860252546717418080
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4889,7 +4934,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252546732565046
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5337,7 +5384,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252546759429705
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5525,7 +5574,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252546775737677
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5653,7 +5704,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252546829855788
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5907,7 +5960,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252546855705455
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5929,7 +5984,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252546867008953
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6219,7 +6276,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252546926339400
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6367,7 +6426,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252546968246708
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6854,7 +6915,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252547082513749
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7294,7 +7357,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252547252184929
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7517,7 +7582,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252547316516569
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7807,7 +7874,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252547344539701
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8097,7 +8166,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252547364566321
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8320,7 +8391,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252547375315841
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8666,7 +8739,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252547459954556
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8920,7 +8995,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252547464427551
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9021,7 +9098,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252547504348323
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9256,7 +9335,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252547522267804
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9901,7 +9982,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252547648522185
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10049,7 +10132,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252547653046697
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10497,7 +10582,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252547709492758
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10741,7 +10828,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252547728511406
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11018,7 +11107,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252547797073033
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11273,7 +11364,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252547819763021
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11381,7 +11474,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252547842387716
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11821,7 +11916,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252547890102950
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -12170,7 +12267,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252547896157951
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -12232,7 +12331,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252547907399789
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -12340,7 +12441,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252547915681463
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -13034,7 +13137,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252548036238814
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -13229,7 +13334,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 3860252548079740369}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 519420030}
+        m_TargetAssemblyTypeName: Money, Assembly-CSharp
+        m_MethodName: ChangedCountMoney
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!224 &3860252548079740371
 RectTransform:
   m_ObjectHideFlags: 0
@@ -13397,7 +13514,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252548152723701
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -13706,7 +13825,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!114 &3860252548189974624
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14087,7 +14208,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252548208820673
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14310,7 +14433,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252548246677435
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14659,7 +14784,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252548264637887
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14681,7 +14808,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252548275429175
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14971,7 +15100,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252548332596315
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -15119,7 +15250,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isSelected: 0
+  price: 100
   select: {fileID: 0}
+  isBuy: 0
 --- !u!222 &3860252548347326345
 CanvasRenderer:
   m_ObjectHideFlags: 0
