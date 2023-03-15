@@ -16,7 +16,9 @@ public class Money : MonoBehaviour
 
     public void ChangedCountMoney()
     {
-        if (money <= 0) return;
+        element = FindObjectOfType<Element>();
+
+        if (money <= 0 || element == null) return;
 
         var selectElements = element.GetElements(); 
 
@@ -25,7 +27,8 @@ public class Money : MonoBehaviour
             if(el.isSelected && !el.isBuy)
             {
                 money -= el.price;
-                el.transform.GetChild(0).gameObject.SetActive(false);
+                el.transform.GetChild(1).gameObject.SetActive(false);
+                el.transform.GetChild(2).gameObject.SetActive(false);
                 el.isBuy = true;
             }
         }
